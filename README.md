@@ -1,5 +1,5 @@
-# timeline
-基于jquery的时间轴，支持自动播放、单击暂停、超长时间轴翻页等
+# 时间轴
+适合长时间序列的jquery时间轴，支持自动播放、单击暂停、超长时间轴翻页等
 
 **原版**：http://www.jq22.com/jquery-info19737 (作者：桐人Kirito)
 
